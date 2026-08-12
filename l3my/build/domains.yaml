@@ -1,0 +1,7 @@
+default: l3my
+build_dir: C:/learning/c-learn/l3my/build
+domains:
+  - name: l3my
+    build_dir: C:/learning/c-learn/l3my/build/l3my
+flash_order:
+  - l3my

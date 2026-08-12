@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/learning/c-learn/l3my/build/_sysbuild/sysbuild/images/CMakeFiles/l3my"
+		},
+		{
+			"file" : "C:/learning/c-learn/l3my/build/_sysbuild/sysbuild/images/CMakeFiles/l3my.rule"
+		},
+		{
+			"file" : "C:/learning/c-learn/l3my/build/_sysbuild/sysbuild/images/CMakeFiles/l3my-complete.rule"
+		},
+		{
+			"file" : "C:/learning/c-learn/l3my/build/_sysbuild/sysbuild/images/l3my-prefix/src/l3my-stamp/l3my-build.rule"
+		},
+		{
+			"file" : "C:/learning/c-learn/l3my/build/_sysbuild/sysbuild/images/l3my-prefix/src/l3my-stamp/l3my-configure.rule"
+		},
+		{
+			"file" : "C:/learning/c-learn/l3my/build/_sysbuild/sysbuild/images/l3my-prefix/src/l3my-stamp/l3my-download.rule"
+		},
+		{
+			"file" : "C:/learning/c-learn/l3my/build/_sysbuild/sysbuild/images/l3my-prefix/src/l3my-stamp/l3my-install.rule"
+		},
+		{
+			"file" : "C:/learning/c-learn/l3my/build/_sysbuild/sysbuild/images/l3my-prefix/src/l3my-stamp/l3my-mkdir.rule"
+		},
+		{
+			"file" : "C:/learning/c-learn/l3my/build/_sysbuild/sysbuild/images/l3my-prefix/src/l3my-stamp/l3my-patch.rule"
+		},
+		{
+			"file" : "C:/learning/c-learn/l3my/build/_sysbuild/sysbuild/images/l3my-prefix/src/l3my-stamp/l3my-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"l3my"
+		],
+		"name" : "l3my"
+	}
+}

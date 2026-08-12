@@ -1,0 +1,27 @@
+# ninja log v7
+64	191	8082366250010759	_sysbuild/sysbuild/images/l3my-prefix/src/l3my-stamp/l3my-mkdir	b30fb4ba24b3c46d
+64	191	8082366250010759	C:/learning/c-learn/l3my/build/_sysbuild/sysbuild/images/l3my-prefix/src/l3my-stamp/l3my-mkdir	b30fb4ba24b3c46d
+193	323	8082366251323733	_sysbuild/sysbuild/images/l3my-prefix/src/l3my-stamp/l3my-download	dde42697a79a4830
+193	323	8082366251323733	C:/learning/c-learn/l3my/build/_sysbuild/sysbuild/images/l3my-prefix/src/l3my-stamp/l3my-download	dde42697a79a4830
+323	448	8082366252569161	_sysbuild/sysbuild/images/l3my-prefix/src/l3my-stamp/l3my-update	7c675c2406097a10
+323	448	8082366252569161	C:/learning/c-learn/l3my/build/_sysbuild/sysbuild/images/l3my-prefix/src/l3my-stamp/l3my-update	7c675c2406097a10
+449	568	8082366253788616	_sysbuild/sysbuild/images/l3my-prefix/src/l3my-stamp/l3my-patch	654f107b8b407e1
+449	568	8082366253788616	C:/learning/c-learn/l3my/build/_sysbuild/sysbuild/images/l3my-prefix/src/l3my-stamp/l3my-patch	654f107b8b407e1
+569	692	8082366255000065	_sysbuild/sysbuild/images/l3my-prefix/src/l3my-stamp/l3my-configure	814d78244509afd0
+569	692	8082366255000065	C:/learning/c-learn/l3my/build/_sysbuild/sysbuild/images/l3my-prefix/src/l3my-stamp/l3my-configure	814d78244509afd0
+692	160926	8082366255140045	_sysbuild/sysbuild/images/l3my-prefix/src/l3my-stamp/l3my-build	a7ca1e12073c4f3a
+692	160926	8082366255140045	C:/learning/c-learn/l3my/build/_sysbuild/sysbuild/images/l3my-prefix/src/l3my-stamp/l3my-build	a7ca1e12073c4f3a
+160927	161067	8082367857482037	_sysbuild/sysbuild/images/l3my-prefix/src/l3my-stamp/l3my-install	8743a66bbd0d0f7e
+160927	161067	8082367857482037	C:/learning/c-learn/l3my/build/_sysbuild/sysbuild/images/l3my-prefix/src/l3my-stamp/l3my-install	8743a66bbd0d0f7e
+161067	161354	8082367861599404	_sysbuild/sysbuild/images/CMakeFiles/l3my-complete	b6c1611cea08b835
+161067	161354	8082367861599404	_sysbuild/sysbuild/images/l3my-prefix/src/l3my-stamp/l3my-done	b6c1611cea08b835
+161067	161354	8082367861599404	C:/learning/c-learn/l3my/build/_sysbuild/sysbuild/images/CMakeFiles/l3my-complete	b6c1611cea08b835
+161067	161354	8082367861599404	C:/learning/c-learn/l3my/build/_sysbuild/sysbuild/images/l3my-prefix/src/l3my-stamp/l3my-done	b6c1611cea08b835
+46	615	8082371638377076	_sysbuild/sysbuild/images/l3my-prefix/src/l3my-stamp/l3my-build	a7ca1e12073c4f3a
+46	615	8082371638377076	C:/learning/c-learn/l3my/build/_sysbuild/sysbuild/images/l3my-prefix/src/l3my-stamp/l3my-build	a7ca1e12073c4f3a
+616	701	8082371644079403	_sysbuild/sysbuild/images/l3my-prefix/src/l3my-stamp/l3my-install	8743a66bbd0d0f7e
+616	701	8082371644079403	C:/learning/c-learn/l3my/build/_sysbuild/sysbuild/images/l3my-prefix/src/l3my-stamp/l3my-install	8743a66bbd0d0f7e
+701	876	8082371646551921	_sysbuild/sysbuild/images/CMakeFiles/l3my-complete	b6c1611cea08b835
+701	876	8082371646551921	_sysbuild/sysbuild/images/l3my-prefix/src/l3my-stamp/l3my-done	b6c1611cea08b835
+701	876	8082371646551921	C:/learning/c-learn/l3my/build/_sysbuild/sysbuild/images/CMakeFiles/l3my-complete	b6c1611cea08b835
+701	876	8082371646551921	C:/learning/c-learn/l3my/build/_sysbuild/sysbuild/images/l3my-prefix/src/l3my-stamp/l3my-done	b6c1611cea08b835

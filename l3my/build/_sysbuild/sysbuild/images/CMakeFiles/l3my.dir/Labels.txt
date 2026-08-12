@@ -1,0 +1,13 @@
+# Target labels
+ l3my
+# Source files and their labels
+C:/learning/c-learn/l3my/build/_sysbuild/sysbuild/images/CMakeFiles/l3my
+C:/learning/c-learn/l3my/build/_sysbuild/sysbuild/images/CMakeFiles/l3my.rule
+C:/learning/c-learn/l3my/build/_sysbuild/sysbuild/images/CMakeFiles/l3my-complete.rule
+C:/learning/c-learn/l3my/build/_sysbuild/sysbuild/images/l3my-prefix/src/l3my-stamp/l3my-build.rule
+C:/learning/c-learn/l3my/build/_sysbuild/sysbuild/images/l3my-prefix/src/l3my-stamp/l3my-configure.rule
+C:/learning/c-learn/l3my/build/_sysbuild/sysbuild/images/l3my-prefix/src/l3my-stamp/l3my-download.rule
+C:/learning/c-learn/l3my/build/_sysbuild/sysbuild/images/l3my-prefix/src/l3my-stamp/l3my-install.rule
+C:/learning/c-learn/l3my/build/_sysbuild/sysbuild/images/l3my-prefix/src/l3my-stamp/l3my-mkdir.rule
+C:/learning/c-learn/l3my/build/_sysbuild/sysbuild/images/l3my-prefix/src/l3my-stamp/l3my-patch.rule
+C:/learning/c-learn/l3my/build/_sysbuild/sysbuild/images/l3my-prefix/src/l3my-stamp/l3my-update.rule
