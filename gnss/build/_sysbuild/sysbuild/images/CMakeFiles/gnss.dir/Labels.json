@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/learning/c-learn/gnss/build/_sysbuild/sysbuild/images/CMakeFiles/gnss"
+		},
+		{
+			"file" : "C:/learning/c-learn/gnss/build/_sysbuild/sysbuild/images/CMakeFiles/gnss.rule"
+		},
+		{
+			"file" : "C:/learning/c-learn/gnss/build/_sysbuild/sysbuild/images/CMakeFiles/gnss-complete.rule"
+		},
+		{
+			"file" : "C:/learning/c-learn/gnss/build/_sysbuild/sysbuild/images/gnss-prefix/src/gnss-stamp/gnss-build.rule"
+		},
+		{
+			"file" : "C:/learning/c-learn/gnss/build/_sysbuild/sysbuild/images/gnss-prefix/src/gnss-stamp/gnss-configure.rule"
+		},
+		{
+			"file" : "C:/learning/c-learn/gnss/build/_sysbuild/sysbuild/images/gnss-prefix/src/gnss-stamp/gnss-download.rule"
+		},
+		{
+			"file" : "C:/learning/c-learn/gnss/build/_sysbuild/sysbuild/images/gnss-prefix/src/gnss-stamp/gnss-install.rule"
+		},
+		{
+			"file" : "C:/learning/c-learn/gnss/build/_sysbuild/sysbuild/images/gnss-prefix/src/gnss-stamp/gnss-mkdir.rule"
+		},
+		{
+			"file" : "C:/learning/c-learn/gnss/build/_sysbuild/sysbuild/images/gnss-prefix/src/gnss-stamp/gnss-patch.rule"
+		},
+		{
+			"file" : "C:/learning/c-learn/gnss/build/_sysbuild/sysbuild/images/gnss-prefix/src/gnss-stamp/gnss-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"gnss"
+		],
+		"name" : "gnss"
+	}
+}

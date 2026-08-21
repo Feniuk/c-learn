@@ -1,0 +1,7 @@
+default: gnss
+build_dir: C:/learning/c-learn/gnss/build
+domains:
+  - name: gnss
+    build_dir: C:/learning/c-learn/gnss/build/gnss
+flash_order:
+  - gnss

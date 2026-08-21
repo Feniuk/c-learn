@@ -1,0 +1,13 @@
+# Target labels
+ gnss
+# Source files and their labels
+C:/learning/c-learn/gnss/build/_sysbuild/sysbuild/images/CMakeFiles/gnss
+C:/learning/c-learn/gnss/build/_sysbuild/sysbuild/images/CMakeFiles/gnss.rule
+C:/learning/c-learn/gnss/build/_sysbuild/sysbuild/images/CMakeFiles/gnss-complete.rule
+C:/learning/c-learn/gnss/build/_sysbuild/sysbuild/images/gnss-prefix/src/gnss-stamp/gnss-build.rule
+C:/learning/c-learn/gnss/build/_sysbuild/sysbuild/images/gnss-prefix/src/gnss-stamp/gnss-configure.rule
+C:/learning/c-learn/gnss/build/_sysbuild/sysbuild/images/gnss-prefix/src/gnss-stamp/gnss-download.rule
+C:/learning/c-learn/gnss/build/_sysbuild/sysbuild/images/gnss-prefix/src/gnss-stamp/gnss-install.rule
+C:/learning/c-learn/gnss/build/_sysbuild/sysbuild/images/gnss-prefix/src/gnss-stamp/gnss-mkdir.rule
+C:/learning/c-learn/gnss/build/_sysbuild/sysbuild/images/gnss-prefix/src/gnss-stamp/gnss-patch.rule
+C:/learning/c-learn/gnss/build/_sysbuild/sysbuild/images/gnss-prefix/src/gnss-stamp/gnss-update.rule

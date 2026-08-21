@@ -1,0 +1,27 @@
+# ninja log v7
+80	432	8083525077087158	_sysbuild/sysbuild/images/l3Ex2my-prefix/src/l3Ex2my-stamp/l3Ex2my-mkdir	24790427b75e05e5
+80	432	8083525077087158	C:/learning/c-learn/l3Ex2my/build/_sysbuild/sysbuild/images/l3Ex2my-prefix/src/l3Ex2my-stamp/l3Ex2my-mkdir	24790427b75e05e5
+433	807	8083525080899821	_sysbuild/sysbuild/images/l3Ex2my-prefix/src/l3Ex2my-stamp/l3Ex2my-download	3d165f48b3c7d8ee
+433	807	8083525080899821	C:/learning/c-learn/l3Ex2my/build/_sysbuild/sysbuild/images/l3Ex2my-prefix/src/l3Ex2my-stamp/l3Ex2my-download	3d165f48b3c7d8ee
+807	1132	8083525084210043	_sysbuild/sysbuild/images/l3Ex2my-prefix/src/l3Ex2my-stamp/l3Ex2my-update	fb0c0553ff490e65
+807	1132	8083525084210043	C:/learning/c-learn/l3Ex2my/build/_sysbuild/sysbuild/images/l3Ex2my-prefix/src/l3Ex2my-stamp/l3Ex2my-update	fb0c0553ff490e65
+1134	1595	8083525088642751	_sysbuild/sysbuild/images/l3Ex2my-prefix/src/l3Ex2my-stamp/l3Ex2my-patch	45784b4cf9044741
+1134	1595	8083525088642751	C:/learning/c-learn/l3Ex2my/build/_sysbuild/sysbuild/images/l3Ex2my-prefix/src/l3Ex2my-stamp/l3Ex2my-patch	45784b4cf9044741
+1596	1935	8083525092197762	_sysbuild/sysbuild/images/l3Ex2my-prefix/src/l3Ex2my-stamp/l3Ex2my-configure	69802b269428ebe5
+1596	1935	8083525092197762	C:/learning/c-learn/l3Ex2my/build/_sysbuild/sysbuild/images/l3Ex2my-prefix/src/l3Ex2my-stamp/l3Ex2my-configure	69802b269428ebe5
+1936	72691	8083525092457768	_sysbuild/sysbuild/images/l3Ex2my-prefix/src/l3Ex2my-stamp/l3Ex2my-build	1bfa348d5d676ad5
+1936	72691	8083525092457768	C:/learning/c-learn/l3Ex2my/build/_sysbuild/sysbuild/images/l3Ex2my-prefix/src/l3Ex2my-stamp/l3Ex2my-build	1bfa348d5d676ad5
+72691	72877	8083525800007349	_sysbuild/sysbuild/images/l3Ex2my-prefix/src/l3Ex2my-stamp/l3Ex2my-install	cccf58059b3866eb
+72691	72877	8083525800007349	C:/learning/c-learn/l3Ex2my/build/_sysbuild/sysbuild/images/l3Ex2my-prefix/src/l3Ex2my-stamp/l3Ex2my-install	cccf58059b3866eb
+72877	73261	8083525805486260	_sysbuild/sysbuild/images/CMakeFiles/l3Ex2my-complete	9f711095ef77e0eb
+72877	73261	8083525805486260	_sysbuild/sysbuild/images/l3Ex2my-prefix/src/l3Ex2my-stamp/l3Ex2my-done	9f711095ef77e0eb
+72877	73261	8083525805486260	C:/learning/c-learn/l3Ex2my/build/_sysbuild/sysbuild/images/CMakeFiles/l3Ex2my-complete	9f711095ef77e0eb
+72877	73261	8083525805486260	C:/learning/c-learn/l3Ex2my/build/_sysbuild/sysbuild/images/l3Ex2my-prefix/src/l3Ex2my-stamp/l3Ex2my-done	9f711095ef77e0eb
+56	615	8083528333932404	_sysbuild/sysbuild/images/l3Ex2my-prefix/src/l3Ex2my-stamp/l3Ex2my-build	1bfa348d5d676ad5
+56	615	8083528333932404	C:/learning/c-learn/l3Ex2my/build/_sysbuild/sysbuild/images/l3Ex2my-prefix/src/l3Ex2my-stamp/l3Ex2my-build	1bfa348d5d676ad5
+615	732	8083528339527947	_sysbuild/sysbuild/images/l3Ex2my-prefix/src/l3Ex2my-stamp/l3Ex2my-install	cccf58059b3866eb
+615	732	8083528339527947	C:/learning/c-learn/l3Ex2my/build/_sysbuild/sysbuild/images/l3Ex2my-prefix/src/l3Ex2my-stamp/l3Ex2my-install	cccf58059b3866eb
+732	965	8083528342892390	_sysbuild/sysbuild/images/CMakeFiles/l3Ex2my-complete	9f711095ef77e0eb
+732	965	8083528342892390	_sysbuild/sysbuild/images/l3Ex2my-prefix/src/l3Ex2my-stamp/l3Ex2my-done	9f711095ef77e0eb
+732	965	8083528342892390	C:/learning/c-learn/l3Ex2my/build/_sysbuild/sysbuild/images/CMakeFiles/l3Ex2my-complete	9f711095ef77e0eb
+732	965	8083528342892390	C:/learning/c-learn/l3Ex2my/build/_sysbuild/sysbuild/images/l3Ex2my-prefix/src/l3Ex2my-stamp/l3Ex2my-done	9f711095ef77e0eb

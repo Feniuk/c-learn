@@ -1,0 +1,27 @@
+# ninja log v7
+92	281	8088432006266674	_sysbuild/sysbuild/images/gnss-prefix/src/gnss-stamp/gnss-mkdir	bf8cb0eb35a64a8e
+92	281	8088432006266674	C:/learning/c-learn/gnss/build/_sysbuild/sysbuild/images/gnss-prefix/src/gnss-stamp/gnss-mkdir	bf8cb0eb35a64a8e
+282	464	8088432008145636	_sysbuild/sysbuild/images/gnss-prefix/src/gnss-stamp/gnss-download	f54f27061f83574e
+282	464	8088432008145636	C:/learning/c-learn/gnss/build/_sysbuild/sysbuild/images/gnss-prefix/src/gnss-stamp/gnss-download	f54f27061f83574e
+464	642	8088432009899008	_sysbuild/sysbuild/images/gnss-prefix/src/gnss-stamp/gnss-update	52dfed26a0766523
+464	642	8088432009899008	C:/learning/c-learn/gnss/build/_sysbuild/sysbuild/images/gnss-prefix/src/gnss-stamp/gnss-update	52dfed26a0766523
+645	839	8088432011895923	_sysbuild/sysbuild/images/gnss-prefix/src/gnss-stamp/gnss-patch	973b5792e54dc6c6
+645	839	8088432011895923	C:/learning/c-learn/gnss/build/_sysbuild/sysbuild/images/gnss-prefix/src/gnss-stamp/gnss-patch	973b5792e54dc6c6
+839	1019	8088432013680053	_sysbuild/sysbuild/images/gnss-prefix/src/gnss-stamp/gnss-configure	b9c7e34bcbb13214
+839	1019	8088432013680053	C:/learning/c-learn/gnss/build/_sysbuild/sysbuild/images/gnss-prefix/src/gnss-stamp/gnss-configure	b9c7e34bcbb13214
+1020	136252	8088432013876937	_sysbuild/sysbuild/images/gnss-prefix/src/gnss-stamp/gnss-build	bdd555514d30d86d
+1020	136252	8088432013876937	C:/learning/c-learn/gnss/build/_sysbuild/sysbuild/images/gnss-prefix/src/gnss-stamp/gnss-build	bdd555514d30d86d
+136252	136377	8088433366162267	_sysbuild/sysbuild/images/gnss-prefix/src/gnss-stamp/gnss-install	e4c8a2168b1904c6
+136252	136377	8088433366162267	C:/learning/c-learn/gnss/build/_sysbuild/sysbuild/images/gnss-prefix/src/gnss-stamp/gnss-install	e4c8a2168b1904c6
+136377	136629	8088433369781597	_sysbuild/sysbuild/images/CMakeFiles/gnss-complete	7504956b89e1c264
+136377	136629	8088433369781597	_sysbuild/sysbuild/images/gnss-prefix/src/gnss-stamp/gnss-done	7504956b89e1c264
+136377	136629	8088433369781597	C:/learning/c-learn/gnss/build/_sysbuild/sysbuild/images/CMakeFiles/gnss-complete	7504956b89e1c264
+136377	136629	8088433369781597	C:/learning/c-learn/gnss/build/_sysbuild/sysbuild/images/gnss-prefix/src/gnss-stamp/gnss-done	7504956b89e1c264
+33	1363	8088433486621811	_sysbuild/sysbuild/images/gnss-prefix/src/gnss-stamp/gnss-build	bdd555514d30d86d
+33	1363	8088433486621811	C:/learning/c-learn/gnss/build/_sysbuild/sysbuild/images/gnss-prefix/src/gnss-stamp/gnss-build	bdd555514d30d86d
+1364	1456	8088433499926085	_sysbuild/sysbuild/images/gnss-prefix/src/gnss-stamp/gnss-install	e4c8a2168b1904c6
+1364	1456	8088433499926085	C:/learning/c-learn/gnss/build/_sysbuild/sysbuild/images/gnss-prefix/src/gnss-stamp/gnss-install	e4c8a2168b1904c6
+1456	1667	8088433502761939	_sysbuild/sysbuild/images/CMakeFiles/gnss-complete	7504956b89e1c264
+1456	1667	8088433502761939	_sysbuild/sysbuild/images/gnss-prefix/src/gnss-stamp/gnss-done	7504956b89e1c264
+1456	1667	8088433502761939	C:/learning/c-learn/gnss/build/_sysbuild/sysbuild/images/CMakeFiles/gnss-complete	7504956b89e1c264
+1456	1667	8088433502761939	C:/learning/c-learn/gnss/build/_sysbuild/sysbuild/images/gnss-prefix/src/gnss-stamp/gnss-done	7504956b89e1c264

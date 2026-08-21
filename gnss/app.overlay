@@ -1,0 +1,11 @@
+/ {
+	chosen {
+		zephyr,console = &uart1;
+		zephyr,shell-uart = &uart1;
+	};
+};
+
+/* UART1 is the nRF9161 DK VCOM0 interface. */
+&uart1 {
+	status = "okay";
+};

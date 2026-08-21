@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/learning/c-learn/l3Ex2my/build/_sysbuild/sysbuild/images/CMakeFiles/l3Ex2my"
+		},
+		{
+			"file" : "C:/learning/c-learn/l3Ex2my/build/_sysbuild/sysbuild/images/CMakeFiles/l3Ex2my.rule"
+		},
+		{
+			"file" : "C:/learning/c-learn/l3Ex2my/build/_sysbuild/sysbuild/images/CMakeFiles/l3Ex2my-complete.rule"
+		},
+		{
+			"file" : "C:/learning/c-learn/l3Ex2my/build/_sysbuild/sysbuild/images/l3Ex2my-prefix/src/l3Ex2my-stamp/l3Ex2my-build.rule"
+		},
+		{
+			"file" : "C:/learning/c-learn/l3Ex2my/build/_sysbuild/sysbuild/images/l3Ex2my-prefix/src/l3Ex2my-stamp/l3Ex2my-configure.rule"
+		},
+		{
+			"file" : "C:/learning/c-learn/l3Ex2my/build/_sysbuild/sysbuild/images/l3Ex2my-prefix/src/l3Ex2my-stamp/l3Ex2my-download.rule"
+		},
+		{
+			"file" : "C:/learning/c-learn/l3Ex2my/build/_sysbuild/sysbuild/images/l3Ex2my-prefix/src/l3Ex2my-stamp/l3Ex2my-install.rule"
+		},
+		{
+			"file" : "C:/learning/c-learn/l3Ex2my/build/_sysbuild/sysbuild/images/l3Ex2my-prefix/src/l3Ex2my-stamp/l3Ex2my-mkdir.rule"
+		},
+		{
+			"file" : "C:/learning/c-learn/l3Ex2my/build/_sysbuild/sysbuild/images/l3Ex2my-prefix/src/l3Ex2my-stamp/l3Ex2my-patch.rule"
+		},
+		{
+			"file" : "C:/learning/c-learn/l3Ex2my/build/_sysbuild/sysbuild/images/l3Ex2my-prefix/src/l3Ex2my-stamp/l3Ex2my-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"l3Ex2my"
+		],
+		"name" : "l3Ex2my"
+	}
+}

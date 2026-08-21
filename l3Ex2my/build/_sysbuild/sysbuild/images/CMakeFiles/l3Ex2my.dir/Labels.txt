@@ -1,0 +1,13 @@
+# Target labels
+ l3Ex2my
+# Source files and their labels
+C:/learning/c-learn/l3Ex2my/build/_sysbuild/sysbuild/images/CMakeFiles/l3Ex2my
+C:/learning/c-learn/l3Ex2my/build/_sysbuild/sysbuild/images/CMakeFiles/l3Ex2my.rule
+C:/learning/c-learn/l3Ex2my/build/_sysbuild/sysbuild/images/CMakeFiles/l3Ex2my-complete.rule
+C:/learning/c-learn/l3Ex2my/build/_sysbuild/sysbuild/images/l3Ex2my-prefix/src/l3Ex2my-stamp/l3Ex2my-build.rule
+C:/learning/c-learn/l3Ex2my/build/_sysbuild/sysbuild/images/l3Ex2my-prefix/src/l3Ex2my-stamp/l3Ex2my-configure.rule
+C:/learning/c-learn/l3Ex2my/build/_sysbuild/sysbuild/images/l3Ex2my-prefix/src/l3Ex2my-stamp/l3Ex2my-download.rule
+C:/learning/c-learn/l3Ex2my/build/_sysbuild/sysbuild/images/l3Ex2my-prefix/src/l3Ex2my-stamp/l3Ex2my-install.rule
+C:/learning/c-learn/l3Ex2my/build/_sysbuild/sysbuild/images/l3Ex2my-prefix/src/l3Ex2my-stamp/l3Ex2my-mkdir.rule
+C:/learning/c-learn/l3Ex2my/build/_sysbuild/sysbuild/images/l3Ex2my-prefix/src/l3Ex2my-stamp/l3Ex2my-patch.rule
+C:/learning/c-learn/l3Ex2my/build/_sysbuild/sysbuild/images/l3Ex2my-prefix/src/l3Ex2my-stamp/l3Ex2my-update.rule

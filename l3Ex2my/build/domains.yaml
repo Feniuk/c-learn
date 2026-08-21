@@ -1,0 +1,7 @@
+default: l3Ex2my
+build_dir: C:/learning/c-learn/l3Ex2my/build
+domains:
+  - name: l3Ex2my
+    build_dir: C:/learning/c-learn/l3Ex2my/build/l3Ex2my
+flash_order:
+  - l3Ex2my
